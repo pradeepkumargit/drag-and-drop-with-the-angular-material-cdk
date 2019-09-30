@@ -1,5 +1,13 @@
-# DragAndDropWithTheAngularMaterialCdk
+# Drag And Drop With The Angular Material Cdk
 
+The @angular/cdk/drag-drop module provides you with a way to easily and declaratively create drag-and-drop interfaces, with support for free dragging, sorting within a list, transferring items between lists, animations, touch devices, custom drag handles, previews, and placeholders, in addition to horizontal lists and locking along an axis.
+
+## Install Angular Material
+Use the Angular CLI's install schematic to set up your Angular Material project by running the following command:
+```bash
+ng add @angular/material
+
+``` 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
 
 ## Development server
